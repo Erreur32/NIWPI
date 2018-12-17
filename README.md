@@ -30,8 +30,10 @@ Repo:
  
 ## Bonus 
 
-### INCLUDE
+**  INCLUDE**
+
 Screen Resolution detection
+
 https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.resolution.jpg
 
 ## Live page
@@ -44,6 +46,10 @@ https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.
 ![https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.jpg](https://ip.echosystem.fr) 
 
 [![](https://echosystem.fr/i/Screenshots/ip.echosystem.fr1310551998_800_100.jpg)](https://ip.echosystem.fr)
+
+Screen Resolution detection
+
+![https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.resolution.jpg](https://ip.echosystem.fr/resolution.html)
 # License 
 
  Script Free to use and edit.
