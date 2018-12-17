@@ -30,7 +30,7 @@ Repo:
  
 ## Bonus 
 
-**  INCLUDE**
+**INCLUDE**
 
 Screen Resolution detection
 
@@ -50,6 +50,8 @@ https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.
 Screen Resolution detection
 
 ![https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.resolution.jpg](https://ip.echosystem.fr/resolution.html)
+
+![](https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.resolution.jpg)
 # License 
 
  Script Free to use and edit.
