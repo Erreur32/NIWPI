@@ -554,7 +554,7 @@ echo 'Longitude:  <span style="color:#cc0000;text-shadow: -1px -1px 2px #000;">'
 
    <a href="Info">   <h2>Your IP image.</h2> </a>
    <br>
- <a href="Info/image.jpg"><img src="Info/image.jpg"></a>
+ <a href="Info/image.php"><img src="Info/image.php"></a>
 
    <br /><br /><br />
  <a href="https://git.echosystem.fr/Erreur32/NIWPI">NIWPI Page</a> by <a href="https://erreur32.echosystem.fr">   erreur32 </a>
