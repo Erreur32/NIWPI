@@ -51,16 +51,16 @@ $user = new uInfo($_SERVER["HTTP_USER_AGENT"], $_SERVER["REMOTE_ADDR"]);
 
 	<div id="img">
 		<div id="image">
-			<a href="<?php echo $site['uri']; ?>image.jpg"><img src="<?php echo $site['uri']; ?>image.jpg"></a>
+			<a href="<?php echo $site['uri']; ?>image.php"><img src="<?php echo $site['uri']; ?>image.php"></a>
 		</div>
 		<div id="img_links">
 			<div class="link">
 				<div class="link_text" data-i18n="app.htmlcode">HTML code:</div>
-				<textarea onClick="select()"><img src="<?php echo $site['uri']; ?>image.jpg"></textarea>
+				<textarea onClick="select()"><img src="<?php echo $site['uri']; ?>image.php"></textarea>
 			</div>
 			<div class="link">
 				<div class="link_text" data-i18n="app.bbcode">BB code:</div>
-				<textarea onClick="select()">[img]<?php echo $site['uri']; ?>image.jpg[/img]</textarea>
+				<textarea onClick="select()">[img]<?php echo $site['uri']; ?>image.php[/img]</textarea>
 			</div>
 	    <br></div>
 	</div>
