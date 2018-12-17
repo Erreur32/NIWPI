@@ -42,15 +42,17 @@ https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.
 
 
 ## Screenshot
+
+### IP
  
-![https://ip.echosystem.fr](https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.jpg) 
+[![](https://ip.echosystem.fr)](https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.jpg) 
 
-[![](https://echosystem.fr/i/Screenshots/ip.echosystem.fr1310551998_800_100.jpg)](https://ip.echosystem.fr)
 
-Screen Resolution detection
+
+### Screen Resolution detection
 
  
-![https://ip.echosystem.fr/resolution.html](https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.resolution.jpg)
+[![](https://ip.echosystem.fr/resolution.html)](https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.resolution.jpg)
 # License 
 
  Script Free to use and edit.
