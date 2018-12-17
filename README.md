@@ -14,8 +14,7 @@ Tags: [#html](https://echosystem.fr/search/query:php), [#ip](https://echosystem.
 This is a simple **html** page to check Your IP.
 
 > Work better with GEOIP package.
-> 
-> see redame inside [GEOIP](https://git.echosystem.fr/Erreur32/NIWPI/src/master/GEOIP/readme) folder
+> see readme inside [GEOIP](https://git.echosystem.fr/Erreur32/NIWPI/src/master/GEOIP/readme) folder
 
 
 ## Download with GIT
