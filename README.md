@@ -34,7 +34,10 @@ Repo:
 
 Screen Resolution detection
 
-https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.resolution.jpg
+
+https://ip.echosystem.fr/resolution.html
+
+
 
 ## Live page
 
@@ -45,7 +48,7 @@ https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.
 
 ### IP
  
-![https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.jpg](https://ip.echosystem.fr)
+![https://ip.echosystem.fr](https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.jpg)
 
 
 ### Screen Resolution detection
