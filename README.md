@@ -28,15 +28,32 @@ Repo:
 [https://git.echosystem.fr/Erreur32/NIWPI](https://git.echosystem.fr/Erreur32/NIWPI)
 
  
+## Bonus 
+
+**INCLUDE**
+
+Screen Resolution detection
+
+
+https://ip.echosystem.fr/resolution.html
+
+
+
 ## Live page
 
 [ip.echosystem.fr](https://ip.echosystem.fr)
 
 
 ## Screenshot
- 
-[![](https://echosystem.fr/i/Screenshots/ip.echosystem.fr1310551998_800_100.jpg)](https://ip.echosystem.fr)
 
+### IP
+ 
+![https://ip.echosystem.fr](https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.jpg)
+
+
+### Screen Resolution detection
+
+![https://ip.echosystem.fr/resolution.html](https://git.echosystem.fr/Erreur32/NIWPI/raw/master/Screenshot/ip.echosystem.fr.resolution.jpg)
 # License 
 
  Script Free to use and edit.
