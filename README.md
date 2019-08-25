@@ -8,6 +8,9 @@ Tags: [#html](https://echosystem.fr/search/query:php), [#ip](https://echosystem.
 
 ---
 
+## what it's mean 
+
+NIWPI = Nice IP Web Page Info 
 
 ## What it is ?
 
