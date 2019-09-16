@@ -1,0 +1,7 @@
+How to make GEOIP running on your server (debian + apache2)
+
+Need to install some packages:
+
+--> apt-get install -y geoip-bin geoip-database libgeoip-dev libgeoip1 libapache2-mod-geoip php-geoip 
+
+- And Copy ths updater-script: updater-geoip.sh

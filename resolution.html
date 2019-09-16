@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="screen resolution?" />
+<meta name="keywords" content="screen resolution" />
+<title>What is my screen resolution</title>
+<style>
+	body {
+		background-image:url(bg.jpg);
+		background-repeat:repeat-x;
+		background-color:#777;
+		text-align:center; /* Counteract to IE5/Win Hack */
+		margin-top:100px;
+		text-transform:uppercase;
+		}
+	h1 {font-size:20px;}
+	.mainContent {
+		margin:0px auto; /* Right and left margin widths set to "auto" */
+		text-align:center; /* Counteract to IE5/Win Hack */
+		border:0px;
+		width:400px;
+		}
+	.logo {
+		font-family:"Trebuchet MS", Arial, Verdana;
+		font-size:21px;
+		font-weight:lighter;
+		color:#333333;
+		width:360px;
+		padding:20px;
+		background-color:#FFFFFF;
+		text-align:center;
+		}
+	.logo span {
+		color:#cda608;
+		}
+	.resolution {
+		text-align:center;
+		width:340px;
+		padding:20px;
+		border:#FFFFFF solid 10px;
+		margin-top:10px;
+		font-family:"Trebuchet MS", Arial, Verdana;
+		color:#28A000;
+		font-size:27px;
+		line-height:40px;
+		text-shadow: 1px 1px 1px #000;
+		}
+	.resolution span{
+		color:#33cc00;
+		display:block;
+		font-size:55px;
+		text-transform:lowercase;
+		}
+	.sk {
+		width:360px;
+		padding:20px;
+		background-color:#FFFFFF;
+		text-align:center;
+		margin-top:10px;
+		font-family:"Trebuchet MS", Arial, Verdana;
+		color:#666666;
+		font-size:13px;
+		line-height:15px;
+	}
+</style>
+
+
+</head>
+
+<body>
+
+	
+	<div class="mainContent">
+	<div class="logo">
+		<h1><span>what</span> is <span>my</span> screen <span>resolution</span></h1>
+		</div>
+	<div class="resolution">
+		You are using
+		<span id="resolutionNumber"></span>
+	</div>
+	<div class="sk">
+		<p>
+		Votre Résolution Actuelle
+		</p>
+		<p>
+  		<p>
+       <a href="https://ip.echosystem.fr" style="align-center;text-decoration: none;font-weight: bold;color:#777;"><img src="https://echosystem.fr/_img/1skull-50.png" alt="skull"  width="24" height="24">
+       <br>Echo'system'<br>IP</a>
+		</p>
+
+<br/>
+	
+	</div>
+</div>
+
+<SCRIPT type="text/javascript">
+<!--
+
+height = screen.height;
+width = screen.width;
+
+res = document.getElementById ('resolutionNumber');
+res.innerHTML = width + " X " + height;
+
+if (res == null)
+{
+	alert ("hello");
+}
+
+//-->
+</SCRIPT>
+
+
+</body>
+</html>
+

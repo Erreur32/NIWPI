@@ -1,0 +1,121 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:700,400&subset=cyrillic,latin);
+
+body {
+	background-image: url('../img/background.jpg');
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+#middle {
+	width: 500px;
+	height: 80%;
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+}
+
+#content {
+	padding: 10px 0 10px 0;
+	background-image: url('../img/op_bg.png');
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+#text {
+	border-bottom: 1px solid #555;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+
+#ip {
+	text-align: center;
+	font-size: 1.8em;
+}
+
+#list table {
+	font-size: 0.75em;
+	margin: 0 auto 10px;
+}
+
+#list table td:nth-child(1) {
+	text-align: right;
+	padding-right: 2px;
+	color: #444;
+	vertical-align: top;
+	width: 50%;
+}
+
+#list table td:nth-child(2) {
+	width: 200px;
+}
+
+#img {
+	width: 340px;
+	margin: 0 auto;
+}
+
+#image {
+	border-bottom: 1px solid #555;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+
+.link textarea {
+	resize: none;
+	background: none;
+	width: 100%;
+	border: 1px solid #555;
+	color: #000;
+	border-radius: 3px;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+.link_text {
+	font-size: 0.75em;
+}
+
+#info {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 1;
+	height: 20px;
+	text-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+}
+
+#info a {
+	text-decoration: underline;
+}
+
+#info a:hover {
+	text-decoration: none;
+}
+
+#info span, #info a {
+	color: #aaa;
+	font-size: 12px;
+	font-weight: 700;
+}
+
+#info span {
+	padding: 0 3px 0 3px;
+}
+
+@media only screen and (max-width: 520px) {
+	#middle {
+		width: 100%;
+		height: 70%;
+		margin: 25px 0 25px 0;
+	}
+	#img {
+		max-width: 80%;
+	}
+	#img img {
+		width: 100%;
+	}
+}
+
