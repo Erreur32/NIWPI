@@ -1,6 +1,4 @@
-# Check your ip information
-(html page)
-
+# Check your ip information with NIWPI
 
 By [Erreur32](https://echosystem.fr/Erreur32)
 
